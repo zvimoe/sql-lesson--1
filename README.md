@@ -1,5 +1,15 @@
+# SQL mission #1.
+In this mission you will create a SQL database using MySql, you will create SQL tables and column inside those tables.
 
+## First step: Create the database
+You can create the Database using Workbench IDE or phpMyAdmin designer tools. here is the sql statement if you choose to create your Database from a query.
+```sql
+CREATE DATABASE northwind;
+```
+
+## Second step: Create tables
 טבלת לקוחות
+
 =
 
 -	שם פרטי
