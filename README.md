@@ -38,18 +38,18 @@ CREATE TABLE products (id INT(11), name VARCHAR(20), price INT(11));
 
 ## Third step: Primary key &amp; Foreign Key (PK &amp; FK)
 ### Customers table
-The column `social_security` should be PK.
+The column `social_security` should be **PK**.
 
 ### Salesmans table
-The column `social_security` should be PK.
+The column `social_security` should be **PK**.
 
 ### Purchases table
-The column `id` should be PK.
-The column `customer_social_security` should be a FK of `social_security` field of `Customers` table.
-The column `salesman_social_security` should be a FK of `social_security` field of `salesmans` table.
+The column `id` should be **PK**.
+The column `customer_social_security` should be a **FK** of `social_security` field of `Customers` table.
+The column `salesman_social_security` should be a **FK** of `social_security` field of `salesmans` table.
 
 ### Products table
-The column `id` should be PK.
+The column `id` should be **PK**.
 
 ## Materials
 ### Videos
