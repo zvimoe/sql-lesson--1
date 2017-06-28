@@ -36,7 +36,7 @@ CREATE TABLE purchases (id INT(11), customer_social_security INT(11), salesman_s
 CREATE TABLE products (id INT(11), name VARCHAR(20), price INT(11));
 ```
 
-### Third step: Primary key &amp; Foreign Key (PK &amp; FK)
+## Third step: Primary key &amp; Foreign Key (PK &amp; FK)
 ### Customers table
 The column `social_security` should be PK.
 
