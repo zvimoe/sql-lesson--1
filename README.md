@@ -26,3 +26,12 @@
 -	ת.ז.
 -	אימייל
 -	עיר
+
+
+Materials
+==
+Videos:
+===
+How to use Brackets IDE: https://youtu.be/ZgEkwJKi_Lo
+
+How to install and work with Github & Brackets: https://youtu.be/BSSs1RbwgWg
