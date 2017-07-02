@@ -1,3 +1,5 @@
+##hi man
+
 # SQL mission #1.
 In this mission you will create a SQL database using MySql, you will create SQL tables and column inside those tables.
 
